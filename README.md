@@ -12,16 +12,16 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
   <summary>Blender 🥯</summary>
     I picked up blender out of sheer curiosity and i have found it to be a quite fun activity, to keep it short here are some of the models i cooked up
     <p align="center">
-      <img src="images/adepitas sororitas - Copia.png" width="600px" >
+      <img src="images/adepitassororitas.png" width="450px" >
     </p>
     <p align="center">
-      <img src="images/portal - Copia.png" width="600px" >
+      <img src="images/portal.png" width="450px" >
     </p>
     <p align="center">
-      <img src="images/cake - Copia.png" width="600px" >
+      <img src="images/cake.png" width="450px" >
     </p>
     <p align="center">
-      <img src="images/cactu - Copia.png" width="600px" >
+      <img src="images/cactu.png" width="450px" >
     </p>
 
   
