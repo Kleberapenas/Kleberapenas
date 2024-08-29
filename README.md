@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1>Hello there</h1>
 
-<!--
-**Kleberapenas/Kleberapenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://vbr.nathanchung.dev/badge?page_id=kleberapenas-visitors&color=55acb7&style=for-the-badge&logo=Github)
+## Welcome in, to my humble aboad, make your self confortable
+### Here we have a bit about myself
+#### "Who is this strange fella?"
+I am just Kleber, a tech student from UNIVESP and SENAI from Brazil. Doing my best to improve my self in anything i put my mind into. Feel free to hit me with a message on email or linkedn
+##### My hobbies
+I don't like laying idle, and i don't like just endless doomscrolling, so i try filling out my time with more meaninfull things
+<details>
+  <summary>Blender 🥯</summary>
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Coding 💻</summary>
+
+</details>
+
+<details>
+  <summary>Games 👾</summary>
+
+</details>
+
+<details>
+  <summary>Reading 🔖</summary>
+
+</details>
+
+#### What am i studying right now?
+#### What am i doing right now?
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kleberapenas&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
