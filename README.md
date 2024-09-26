@@ -23,7 +23,7 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
     <p align="center">
       <img src="images/cactu.png" width="450px" >
     </p>
-
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)
   
   
 </details>
@@ -32,7 +32,7 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
   <summary>Coding 💻</summary>
   I started coding due do a series of coincidences that started with the pandemic, ever since then i been trying to become a more tech savy guy and learn everything i want and can from coding and machines
   
-  ![Python](https://img.shields.io/badge/Python-F7DF1E?logo=python&logoColor=3776AB&style=flat-square) ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=000000&style=flat-square) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=000000&style=flat-square)
+  ![Python](https://img.shields.io/badge/Python-F7DF1E?logo=python&logoColor=3776AB&style=flat-square) ![Godot](https://img.shields.io/badge/Godot-478CBF?logo=godot-engine&logoColor=000000&style=flat-square) ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=000000&style=flat-square) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 
 </details>
 
@@ -54,6 +54,7 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
 
   
 </details>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 #### What am i studying right now?
 - I am currently studying front end prototyping in the SENAI in the system development course.
