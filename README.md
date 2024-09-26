@@ -52,9 +52,9 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
   <li><b>Clean Code</b> by Robert Cecil Martin</li>
 </ul>
 
-  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 </details>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
 
 #### What am i studying right now?
 - I am currently studying front end prototyping in the SENAI in the system development course.
@@ -62,3 +62,4 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
 - I am also currently trying to learn german, ich kann dich eina ding sagen, ich bin nicht gut darin.
 #### What am i doing right now?
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kleberapenas&show_icons=true&theme=gotham" alt="klbr" />
+
