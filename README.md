@@ -61,5 +61,6 @@ I don't like laying idle, and i don't like just endless doomscrolling, so i try 
 - As mentioned previously i am currently reading Cory Althoff's book, **The self taught programmer**, bashing my head at the wall due to the OOP chapters :)
 - I am also currently trying to learn german, ich kann dich eina ding sagen, ich bin nicht gut darin.
 #### What am i doing right now?
-<p align="center"> <img scr="https://github-readme-stats.vercel.app/api?username=kleberapenas&show_icons=true&theme=gotham" alt="klbr"/>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kleberapenas&show_icons=true&theme=gotham" alt="klbr" />
 
